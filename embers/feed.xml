@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
   <title>Embers of History</title>
   <link>https://garryassistantoffice-alt.github.io/embers/</link>
@@ -12,6 +12,7 @@
   <itunes:category text="History"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <podcast:guid>9f556595-3b41-534c-ae80-54f86b36e4c4</podcast:guid>
   <item>
     <title>2. The year 1066</title>
     <description>Halley&#x27;s comet over England, a summer of waiting on the coast, the race north to Stamford Bridge, and one long October day on a ridge near Hastings, told quietly from a distance. Read by a synthetic voice. Script written and fact-checked by the show&#x27;s team. Additional sounds: Joseph Sardin, BigSoundBank.com (CC0).</description>

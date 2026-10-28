@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
   <title>Slow Orbit</title>
   <link>https://garryassistantoffice-alt.github.io/orbit/</link>
@@ -12,6 +12,7 @@
   <itunes:category text="Science"><itunes:category text="Astronomy"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <podcast:guid>96a434b2-23e3-5aac-af9a-b33accf40cd2</podcast:guid>
   <item>
     <title>3. Mars</title>
     <description>The red planet, slowly: its rusted dust and blue sunsets, the greatest volcano and canyon in the Solar System, the old riverbeds, two small moons, and the patient machines that still work there. Read by a synthetic voice. Script written and fact-checked by the show&#x27;s team.</description>
