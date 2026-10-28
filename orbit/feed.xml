@@ -14,6 +14,17 @@
   <itunes:type>episodic</itunes:type>
   <podcast:guid>96a434b2-23e3-5aac-af9a-b33accf40cd2</podcast:guid>
   <item>
+    <title>4. The Life of the Hubble Space Telescope</title>
+    <description>Spherical aberration: when a mirror&#x27;s edge and centre bring light to slightly different points, every star gets a soft halo. Hubble&#x27;s mirror had it, by one fiftieth of the width of a hair. An idea written before the first rocket reached orbit, a mirror ground precisely wrong, astronauts who mended it by hand, and a grain of empty sky that held thousands of galaxies... Inside: a school bus with a mirror, fifteen sunrises a day, glasses for a telescope, the Pillars of Creation, a comet falling into Jupiter. James Webb will be mentioned too. Chapters: The idea · The bus with a mirror · The launch · The flaw · The repair · The deep field · The pillars · The visits · The long watch · Still there. Sources: NASA and Space Telescope Science Institute histories. Read by a synthetic voice; script written and fact-checked by the show&#x27;s team.</description>
+    <enclosure url="https://op3.dev/e/https://garryassistantoffice-alt.github.io/orbit/orbit-004-hubble.mp3" length="13283071" type="audio/mpeg"/>
+    <guid isPermaLink="false">orbit-004</guid>
+    <pubDate>Wed, 28 Oct 2026 16:59:02 +0000</pubDate>
+    <itunes:duration>1106</itunes:duration>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>3. Mars</title>
     <description>The red planet, slowly: its rusted dust and blue sunsets, the greatest volcano and canyon in the Solar System, the old riverbeds, two small moons, and the patient machines that still work there. Read by a synthetic voice. Script written and fact-checked by the show&#x27;s team.</description>
     <enclosure url="https://garryassistantoffice-alt.github.io/orbit/orbit-003-mars-v2.mp3" length="10973395" type="audio/mpeg"/>
