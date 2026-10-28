@@ -13,6 +13,17 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>3. Mars</title>
+    <description>The red planet, slowly: its rusted dust and blue sunsets, the greatest volcano and canyon in the Solar System, the old riverbeds, two small moons, and the patient machines that still work there. Read by a synthetic voice. Script written and fact-checked by the show&#x27;s team.</description>
+    <enclosure url="https://garryassistantoffice-alt.github.io/orbit/orbit-003-mars.mp3" length="10973395" type="audio/mpeg"/>
+    <guid isPermaLink="false">orbit-003</guid>
+    <pubDate>Wed, 28 Oct 2026 12:36:24 +0000</pubDate>
+    <itunes:duration>914</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>2. The Moon</title>
     <description>Our only natural companion: its one face, its seas of old lava, its long days and nights, the tides, the visitors who walked there, and the mirrors they left behind. Read by a synthetic voice. Script written and fact-checked by the show&#x27;s team.</description>
     <enclosure url="https://garryassistantoffice-alt.github.io/orbit/orbit-002-the-moon.mp3" length="9609494" type="audio/mpeg"/>
