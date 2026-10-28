@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Embers of History</title>
+  <link>https://garryassistantoffice-alt.github.io/embers/</link>
+  <atom:link href="https://garryassistantoffice-alt.github.io/embers/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en</language>
+  <description>Slow walks through ordinary days in the past: cities, crafts, journeys and the people who lived them, and the old battles told quietly from a distance. Calm stories for the late hours. Read by a synthetic voice.</description>
+  <itunes:author>Embers of History</itunes:author>
+  <itunes:summary>Slow walks through ordinary days in the past: cities, crafts, journeys and the people who lived them, and the old battles told quietly from a distance. Calm stories for the late hours. Read by a synthetic voice.</itunes:summary>
+  <itunes:image href="https://garryassistantoffice-alt.github.io/embers/cover.jpg"/>
+  <itunes:category text="History"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:owner><itunes:name>Embers of History</itunes:name><itunes:email>garry.assistant.office@gmail.com</itunes:email></itunes:owner>
+  <item>
+    <title>1. A day in ancient Rome</title>
+    <description>One ordinary summer day in Rome, around AD 125: the night carts, the bakers, the water, the Forum, the baths, the river, and the night watch. Read by a synthetic voice. Script written and fact-checked by the show&#x27;s team.</description>
+    <enclosure url="https://garryassistantoffice-alt.github.io/embers/embers-001-a-day-in-ancient-rome.mp3" length="13104697" type="audio/mpeg"/>
+    <guid isPermaLink="false">embers-001</guid>
+    <pubDate>Wed, 28 Oct 2026 20:00:00 +0000</pubDate>
+    <itunes:duration>1092</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
