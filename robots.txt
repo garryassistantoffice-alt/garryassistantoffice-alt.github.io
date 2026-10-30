@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://garryassistantoffice-alt.github.io/sitemap.xml
