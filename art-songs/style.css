@@ -11,5 +11,6 @@ h1{font-weight:normal;font-size:1.9em;margin:.4em 0 .1em} .meta{color:var(--mute
 @media (max-width:640px){.pair{grid-template-columns:1fr}.pair .en{border-left:0;padding-left:0;margin-bottom:.4em}}
 .note,.cta,.legal{border-top:1px solid var(--line);padding-top:1em;margin-top:1.5em}
 .cta{background:rgba(122,46,46,.06);border:1px solid var(--line);padding:16px;border-radius:6px}
+.btn{display:inline-block;margin-top:.6em;background:#7a2e2e;color:#fff!important;padding:8px 16px;border-radius:4px;text-decoration:none;font-weight:600}
 .legal{font-size:.85em;color:var(--muted)} ul.list{list-style:none;padding:0} ul.list li{padding:.45em 0;border-bottom:1px solid var(--line)}
 .small{color:var(--muted);font-size:.9em}
