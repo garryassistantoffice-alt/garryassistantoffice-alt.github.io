@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://garryassistantoffice-alt.github.io/sitemap.xml
+Sitemap: https://garryassistantoffice-alt.github.io/art-songs/sitemap.xml
