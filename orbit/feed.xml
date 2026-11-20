@@ -14,6 +14,33 @@
   <itunes:type>episodic</itunes:type>
   <podcast:guid>96a434b2-23e3-5aac-af9a-b33accf40cd2</podcast:guid>
   <item>
+    <title>The Outer Worlds: the long edition</title>
+    <description>Three of our lectures joined into one long, unbroken evening: Saturn and its rings, the ice giants Uranus and Neptune, and Pluto at the edge of the light, with a few quiet words between them. Nothing new to keep up with; just one long, slow drift outward through the Solar System.
+
+Chapters:
+00:00 Opening
+00:32 Part one: Saturn
+50:28 Part two: Uranus and Neptune, the ice giants
+1:44:43 Part three: Pluto and the Kuiper Belt
+
+Pictures: NASA/JPL-Caltech/Space Science Institute (Cassini), NASA/JPL (Voyager 2), NASA/JHUAPL/SwRI (New Horizons). Read by a synthetic voice; scripts written and fact-checked by the show&#x27;s team.
+
+More calm shows for the late hours: Embers of History (history), The Quiet Armoury (swords and armour), Myth and Score (composers). Every episode&#x27;s full script: https://garryassistantoffice-alt.github.io/orbit/long-1.html
+
+On YouTube: Opera Stories https://www.youtube.com/@operastoriestv · Slow Orbit https://www.youtube.com/@sloworbitlectures
+Free line-by-line English translations of art songs: https://garryassistantoffice-alt.github.io/art-songs/
+Enjoying the show? Leave a tip (no fees): https://ko-fi.com/artsongtranslations</description>
+    <link>https://garryassistantoffice-alt.github.io/orbit/long-1.html</link>
+    <itunes:image href="https://garryassistantoffice-alt.github.io/orbit/long-01-outer-worlds.jpg"/>
+    <enclosure url="https://op3.dev/e/https://garryassistantoffice-alt.github.io/orbit-audio/orbit-long-01-outer-worlds.mp3" length="77306349" type="audio/mpeg"/>
+    <guid isPermaLink="false">orbit-long-01</guid>
+    <pubDate>Fri, 20 Nov 2026 03:47:44 +0000</pubDate>
+    <itunes:duration>9663</itunes:duration>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>bonus</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>8. Pluto and the Kuiper Belt</title>
     <description>A farm boy at a blink comparator, a schoolgirl at a breakfast table in Oxford, and a moon first seen as a bump on a photograph: the story of how Pluto was found, named and slowly shrank, and how it turned out to be the first of a whole belt of icy worlds beyond Neptune. Then New Horizons arrives in 2015 to find nitrogen glaciers, mountains of water ice and a blue sky, and flies on to Arrokoth, the most distant world ever visited. Chapters: The edge of the light · Planet X · The farm boy · A name from Oxford · The shrinking planet · A double world · The third zone · The vote · The fastest start · The heart · Blue sky · The beyond · Pluto. Sources: NASA (New Horizons), the IAU, Lowell Observatory. Read by a synthetic voice; script written and fact-checked by the show&#x27;s team.
 
@@ -27,6 +54,7 @@ Enjoying the show? Leave a tip (no fees): https://ko-fi.com/artsongtranslations<
     <guid isPermaLink="false">orbit-008</guid>
     <pubDate>Wed, 18 Nov 2026 15:05:05 +0000</pubDate>
     <itunes:duration>3368</itunes:duration>
+    <itunes:season>1</itunes:season>
     <itunes:episode>8</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
@@ -45,6 +73,7 @@ Enjoying the show? Leave a tip (no fees): https://ko-fi.com/artsongtranslations<
     <guid isPermaLink="false">orbit-007</guid>
     <pubDate>Wed, 11 Nov 2026 14:31:20 +0000</pubDate>
     <itunes:duration>3249</itunes:duration>
+    <itunes:season>1</itunes:season>
     <itunes:episode>7</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
@@ -63,6 +92,7 @@ Enjoying the show? Leave a tip (no fees): https://ko-fi.com/artsongtranslations<
     <guid isPermaLink="false">orbit-006</guid>
     <pubDate>Wed, 28 Oct 2026 23:17:51 +0000</pubDate>
     <itunes:duration>3015</itunes:duration>
+    <itunes:season>1</itunes:season>
     <itunes:episode>6</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
@@ -81,6 +111,7 @@ Enjoying the show? Leave a tip (no fees): https://ko-fi.com/artsongtranslations<
     <guid isPermaLink="false">orbit-005</guid>
     <pubDate>Wed, 28 Oct 2026 22:20:20 +0000</pubDate>
     <itunes:duration>1985</itunes:duration>
+    <itunes:season>1</itunes:season>
     <itunes:episode>5</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
@@ -99,6 +130,7 @@ Enjoying the show? Leave a tip (no fees): https://ko-fi.com/artsongtranslations<
     <guid isPermaLink="false">orbit-004</guid>
     <pubDate>Wed, 28 Oct 2026 16:59:02 +0000</pubDate>
     <itunes:duration>1111</itunes:duration>
+    <itunes:season>1</itunes:season>
     <itunes:episode>4</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
@@ -117,6 +149,7 @@ Enjoying the show? Leave a tip (no fees): https://ko-fi.com/artsongtranslations<
     <guid isPermaLink="false">orbit-003</guid>
     <pubDate>Wed, 28 Oct 2026 12:36:24 +0000</pubDate>
     <itunes:duration>946</itunes:duration>
+    <itunes:season>1</itunes:season>
     <itunes:episode>3</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
@@ -135,6 +168,7 @@ Enjoying the show? Leave a tip (no fees): https://ko-fi.com/artsongtranslations<
     <guid isPermaLink="false">orbit-002</guid>
     <pubDate>Wed, 28 Oct 2026 12:05:00 +0000</pubDate>
     <itunes:duration>810</itunes:duration>
+    <itunes:season>1</itunes:season>
     <itunes:episode>2</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
@@ -153,6 +187,7 @@ Enjoying the show? Leave a tip (no fees): https://ko-fi.com/artsongtranslations<
     <guid isPermaLink="false">orbit-001</guid>
     <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
     <itunes:duration>1770</itunes:duration>
+    <itunes:season>1</itunes:season>
     <itunes:episode>1</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
